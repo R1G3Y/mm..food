@@ -23,7 +23,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/SRUS2/mm..food.git
+git clone git clone https://github.com/R1G3Y/mm..food.git
 cd mm..food
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
